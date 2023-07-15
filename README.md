@@ -90,4 +90,4 @@ The accuracy scores on the training and test datasets are then displayed.
 
 Please ensure that you have the `creditcard.csv` file available in the specified location and have installed the required dependencies before running the code.
 
-Note: The code snippet provided assumes that you are running it in a Jupyter environment.
+
